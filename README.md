@@ -20,7 +20,7 @@ All key bindings can be changed with the default as below:
 
   
 
-#####Notes:
+##### Notes:
 
 - The client is likely to crash if you move beyond the loaded cells and/or above the height box limit - hence the project name. 
   - To move into new regions the character will need to be moved to load the desired cells.
